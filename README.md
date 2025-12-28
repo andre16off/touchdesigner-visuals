@@ -1,6 +1,5 @@
 # touchdesigner-visuals
-<div align="center">
-  <h3> Demo del Proyecto</h3>
-  <video src="https://github.com/andre16off/touchdesigner-visuals/raw/main/4.mp4" controls="controls" muted="muted" style="max-width: 100%;">
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/d4b67b93-ab47-4749-a98a-a40c7decdbe0
+
